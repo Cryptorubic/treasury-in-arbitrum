@@ -1,3 +1,2 @@
-# treasury-in-arbitrum
-## Address
-0x0000000000000000000000000000000000000000
+# Rubic Community Treasury address:
+0xc9F5DD51d7BAae25119F37bE2164062b6146Af32
